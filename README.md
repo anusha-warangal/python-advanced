@@ -1,35 +1,39 @@
-# Python Advanced
+# Python Advanced Projects 🐍
 
-This repository contains my Python Advanced learning journey and projects.
+Advanced Python concepts: OOP, Pandas, File Handling & Mini Projects
 
-## Topics Covered
+## 📚 Concepts Covered
 - Object-Oriented Programming (OOP)
-- File Handling
-- Exception Handling
-- Modules and Packages
-- Pandas
-- Functions
-- Advanced Python Concepts
+- File Handling & CSV Operations
+- Exception Handling  
+- Pandas Library
+- Functions & Modules
 
-## Projects
-1. Student Management System
-2. Calculator
-3. File Manager
-4. Employee Record System
-5. Data Analysis with Pandas
+## 💻 Projects in This Repo
 
-## Skills Gained
-- Python Programming
-- Problem Solving
-- Data Handling
-- OOP Design
-- File Operations
+| File Name | Concept Used | Description |
+| --- | --- | --- |
+| `bank_account_management.Py` | OOP - Class, Objects | Deposit, Withdraw, Balance Check system |
+| `Contact_book.Py` | File Handling | Add, View, Search, Delete contacts |
+| `Day13-studentMarksAnalyzer.py` | Pandas, CSV | Analyze student marks from students.csv |
+| `Simple_calculator.Py` | Functions | Basic arithmetic calculator |
+| `Strings.py` | String Methods | Python string manipulation examples |
+| `for-else.py` | Loops | Prime number check using for-else |
 
-## Future Goals
-- Build real-world Python projects
-- Learn Data Science
-- Learn Machine Learning
+## 🎯 Skills Gained
+- Python Programming & OOP Design
+- Data Handling with Pandas
+- Problem Solving & Logic Building
+- File I/O Operations
+- Code Versioning with Git & GitHub
 
-## Author
-**Bikshapathi**
-GitHub: anusha-warangal
+## 🚀 Future Goals
+- Build REST APIs with Flask/Django
+- Learn Data Science & Machine Learning
+- Contribute to Open Source Projects
+
+## 👩‍💻 Author
+**Anusha Warangal**  
+B.Sc Computer Science, 1st Year | Warangal  
+GitHub: [@anusha-warangal](https://github.com/anusha-warangal)  
+LinkedIn: Connect with me for opportunities
