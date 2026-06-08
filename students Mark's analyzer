@@ -1,7 +1,0 @@
-students = [
-    {"name": "Anusha", "marks": 85},
-    {"name": "Ravi", "marks": 28},
-    {"name": "Priya", "marks": 92},
-    {"name": "Kiran", "marks": 35},
-    {"name": "Teja", "marks": 67}
-]
