@@ -37,3 +37,7 @@ Advanced Python concepts: OOP, Pandas, File Handling & Mini Projects
 B.Sc Computer Science, 1st Year | Warangal  
 GitHub: [@anusha-warangal](https://github.com/anusha-warangal)  
 LinkedIn: Connect with me for opportunities
+### 🔥 Latest Achievement
+✅ Merged my first Pull Request! 
+Reviewed code + collaborated on Python project 
+Check it out: [Prime Number Checker](link-to-repo)
